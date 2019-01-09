@@ -1,0 +1,14 @@
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/WorkingCSharpProject.deps.json
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/WorkingCSharpProject.runtimeconfig.json
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/WorkingCSharpProject.runtimeconfig.dev.json
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/WorkingCSharpProject.dll
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/WorkingCSharpProject.pdb
+/Users/stephanieparker/Projects/WorkingCSharpProject/obj/Debug/netcoreapp2.1/WorkingCSharpProject.csprojAssemblyReference.cache
+/Users/stephanieparker/Projects/WorkingCSharpProject/obj/Debug/netcoreapp2.1/WorkingCSharpProject.csproj.CoreCompileInputs.cache
+/Users/stephanieparker/Projects/WorkingCSharpProject/obj/Debug/netcoreapp2.1/WorkingCSharpProject.AssemblyInfoInputs.cache
+/Users/stephanieparker/Projects/WorkingCSharpProject/obj/Debug/netcoreapp2.1/WorkingCSharpProject.AssemblyInfo.cs
+/Users/stephanieparker/Projects/WorkingCSharpProject/obj/Debug/netcoreapp2.1/WorkingCSharpProject.dll
+/Users/stephanieparker/Projects/WorkingCSharpProject/obj/Debug/netcoreapp2.1/WorkingCSharpProject.pdb
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/stephanieparker/Projects/WorkingCSharpProject/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
